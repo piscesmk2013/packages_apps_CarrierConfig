@@ -6,4 +6,9 @@
         <item value="46007"/>
         <item value="46008"/>
     </string-array>
+    <boolean name="carrier_name_override_bool" value="true" />
+    <string name="carrier_name_string">China Mobile HK</string>
+    <string name="carrier_name_string_zh-CN">中国移动香港</string>
+    <string name="carrier_name_string_zh-TW">中國移動香港</string>
+    <string name="carrier_name_string_zh-HK">中國移動香港</string>
 </carrier_config>
