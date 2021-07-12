@@ -4,4 +4,10 @@
     <boolean name="show_apn_setting_cdma_bool" value="true"/>
     <string name="sim_country_iso_override_string">cn</string>
     <boolean name="ascii_7_bit_support_for_long_message_bool" value="true"/>
+    <boolean name="carrier_name_override_bool" value="true" />
+    <string name="carrier_name_string">China Telecom</string>
+    <string name="carrier_name_string_zh-CN">中国电信</string>
+    <string name="carrier_name_string_zh-TW">中國電信</string>
+    <string name="carrier_name_string_bo-CN">གློག་འཕྲིན།</string>
+    <string name="carrier_name_string_ug-CN">تېلېگراف</string>
 </carrier_config>
