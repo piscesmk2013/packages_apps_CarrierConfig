@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <carrier_config>
+    <int name="carrier_default_wfc_ims_mode_int" value="1" />
+    <boolean name="carrier_default_wfc_ims_enabled_bool" value="true" />
     <boolean name="carrier_default_wfc_ims_roaming_enabled_bool" value="true" />
     <boolean name="carrier_supports_ss_over_ut_bool" value="true"/>
     <boolean name="carrier_ims_gba_required_bool" value="true"/>
@@ -22,6 +24,7 @@
     <int name="gba_ua_security_organization_int" value="1"/> <!-- ORG_3GPP -->
     <int name="gba_ua_security_protocol_int" value="65536"/> <!-- UA_SECURITY_PROTOCOL_3GPP_TLS_DEFAULT -->
     <int name="gba_ua_tls_cipher_suite_int" value="47"/> <!-- TLS_RSA_WITH_AES_128_CBC_SHA -->
+    <int name="default_mtu_int" value="1440"/>
     <string name="carrier_name_string">T-Mobile</string>
     <string name="carrier_vvm_package_name_string">com.tmobile.vvm.application</string>
     <string name="vvm_destination_number_string">122</string>
